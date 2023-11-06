@@ -14,8 +14,8 @@
 - 김민기
 ## 🖥️ 개발환경
 ### 언어
-<a href = "https://www.naver.com"><img alt="Static Badge" src="https://img.shields.io/badge/3.14-Python-blue"></a>
-<img alt="Static Badge" src="https://img.shields.io/badge/3.14-Java-orange">
+<a href = "https://www.python.org/"><img alt="Static Badge" src="https://img.shields.io/badge/3.14-Python-blue"></a><br>
+<a href = "https://www.java.com/ko/"><img alt="Static Badge" src="https://img.shields.io/badge/3.14-Java-orange"></a><br>
 
 - Html / css
 ### 프레임워크
