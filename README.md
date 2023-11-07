@@ -22,7 +22,11 @@
 ### 샘플
 ![스크린샷 2023-11-07 164118](https://github.com/rlaalsrl0302/Fashion_Project/assets/131218231/9d24bef2-2010-48f9-8052-671ccf57bcb7)
 
-
+### 참고 및 활용모델
+1. MUSINSA fashion Image Generative Operator: 
+   https://huggingface.co/youngmki/musinsaigo-2.0
+2. Youtube 링크: 
+   https://www.youtube.com/watch?v=PhxG0ltOUr0&t=15s
 
 ## 📆 개발 기간
 - 2023년 11월 00일 ~ 12월 00일
