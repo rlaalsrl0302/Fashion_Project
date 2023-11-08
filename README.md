@@ -1,7 +1,5 @@
 # Fashion Recommendation Project
 - 사용자 요청에 따라 패션을 추천해주는 사이트
-- [Fashion Recommendation Project.pptx](https://github.com/rlaalsrl0302/Fashion_Project/files/13290618/Fashion.Recommendation.Project.pptx)
-
 
 # 🎮 프로젝트 소개
 ## 선정배경
